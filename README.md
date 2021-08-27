@@ -1,7 +1,7 @@
 # Electromagnetic_Fields_B_2020
-Semester project for Electromagnetic Fields B course, 5th Semester 2020 of the Electrical and Computer Engineering School at the National Technical University of Athens.
+Exercises for Electromagnetic Fields B course, 5th Semester 2020 of the Electrical and Computer Engineering School at the National Technical University of Athens.
 
-The aim of this project was the analysis and visualisation of various electromagnetic fields, as well as the estimation of current densities using the method of moments.
+The aim of these exercises was the analysis and visualisation of various electromagnetic fields, as well as the estimation of current densities using the method of moments.
 
 \
 **Problem set 1, Exercise 7**: Spherical conductor with cavity, with a line charge inside the cavity
