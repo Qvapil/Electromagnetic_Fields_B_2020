@@ -3,6 +3,8 @@ Exercises for Electromagnetic Fields B course, 5th Semester 2020 of the Electric
 
 The aim of these exercises was the analysis and visualisation of various electromagnetic fields, as well as the estimation of current densities using the method of moments.
 
+I used python with matplotlib and numpy.
+
 \
 **Problem set 1, Exercise 7**: Spherical conductor with cavity, with a line charge inside the cavity
 
